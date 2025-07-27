@@ -19,4 +19,4 @@ Features include:
 To clone the project, run:
 
 ```bash
-git clone https://github.com/your-username/todo.git
+git clone https://github.com/Paxton-Fettel/todo.git
